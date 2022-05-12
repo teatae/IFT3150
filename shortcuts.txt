@@ -1,3 +1,5 @@
+npm start in gentleman directory to run code
+
 ctrl e copy paste
 ctrl space autocomplete
 
