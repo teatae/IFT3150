@@ -6,3 +6,5 @@ ctrl space autocomplete
 ctrl arrow to swap left right
 
 ctrl+k v to activate markdown in vscode
+
+ctrl+p search files
