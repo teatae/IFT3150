@@ -12,8 +12,6 @@ Elle permet également de rendre plusieurs autres intéractions plus intuitives 
 
 ### Usage du drag-n-drop Gentleman
 
-Le drag-nd
-
 - Déplacement: Jusqu'à présent, glisser un concept par l'entête permet de le déplacer. Ensuite, déposer ce concept par dessus un autre permet d'interchanger leur emplacement dans l'éditeur.
 - Copier/Coller: Glisser un concept par son contenu et non par son entête permet de copier le concept. Par la suite, déposer ce concept permet de le coller à la fin d'éditeur. Après la fonctionnalité de coller à l'intérieur d'un autre concept, il serait nécessaire d'implémenter un menu pour les déplacements, le copier/coller, ainsi que la possibilité d'annuler d'une action.
 
