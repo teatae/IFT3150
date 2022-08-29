@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Gentlement est un éditeur de projection léger basé sur le Web qui vous permet de créer et de manipuler des modèles basés sur des concepts par projection.
+Gentleman est un éditeur de projection léger basé sur le Web qui vous permet de créer et de manipuler des modèles basés sur des concepts par projection.
 
 ### Motivation du drag-n-drop
 
